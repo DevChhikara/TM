@@ -1,0 +1,18 @@
+.sidebar {
+    color: white;
+    height: 100vh;
+    padding: 1rem;
+    max-width: 15vw;
+
+    li {
+        h5 {
+            text-transform: uppercase;
+        }
+
+        color: black;
+    }
+
+    .list-item {
+        margin: 1rem 0;
+    }
+}
